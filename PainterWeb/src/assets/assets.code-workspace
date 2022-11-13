@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "assets",
+			"path": "."
+		},
+		{
+			"name": "js",
+			"path": "../js"
+		},
+		{
+			"name": "PainterWeb",
+			"path": "../../Work/PainterWeb"
+		}
+	],
+	"settings": {}
+}
